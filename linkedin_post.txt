@@ -1,0 +1,35 @@
+⚡ Zero frameworks. Maximum performance. Deployed.
+
+
+
+I have engineered and deployed EcoTrace—a secure, lightweight, and fully accessible Carbon Footprint Dashboard built for the Carbon Footprint Awareness Platform mini-challenge. 🌍
+
+
+
+Here is a quick overview of how it was built:
+
+🛠️ The Tech Stack: Pure HTML5, Vanilla CSS3, and Modular ES6+ JavaScript. No frameworks or heavy libraries.
+
+📊 Lightweight Data Viz: Dynamic donut charts built using raw SVG and basic trigonometry instead of Chart.js or D3.
+
+🔒 Production-Level Security: Built a custom Node.js server deployed via Vercel, hardened with directory traversal protection and strict HTTP security headers (CSP, DENY, nosniff).
+
+♿ Inclusive Design: Fully WCAG 2.1 AA compliant, featuring comprehensive WAI-ARIA keyboard navigation and live screen reader announcements (aria-live).
+
+🤖 Offline AI: Features EcoBot, a completely client-side assistant that tracks habits and calculates targets locally.
+
+🧪 Native Testing: Uses the native node:test runner to guarantee a 100% test pass rate with zero external dependencies.
+
+
+
+Building this from scratch was a fantastic exercise in maximizing performance, accessibility, and security using native web APIs.
+
+
+
+Explore the repository and live deployment here: 👇
+
+🔗 https://github.com/sejalAS-1510/EcoTrace
+
+
+
+#BuildInPublic #GreenTech #VanillaJS #WebSecurity #WebAccessibility #CleanCode #SoftwareEngineering #OpenSource #Vercel
